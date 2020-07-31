@@ -23,7 +23,7 @@
 <p align="center">
  <img src="/ezgif.com-optimize.gif?raw=true" width="750px">
 </p>
-Front end web application built while at Digital Crafts, allows a user to put in any location and get an abundance of real time weather data.
+capstone
 
 ### Built With
 * [React](https://reactjs.org/) - Client
