@@ -4,13 +4,13 @@
 <br />
 <p align="center">
     <a>
-    <img src="/logo.png" alt="Logo" width="750" height="300">
+    <img src="/logo1.png" alt="Logo" width="750" height="300">
     </a>
 
   <h3 align="center">StonksJS</h3>
 
   <p align="center">
-   capstone
+   Group capstone project for digital crafts.
     <br />
     <br />
     <a href="https://stonks.baileyday.dev">Check out the Live Version</a>
@@ -28,9 +28,8 @@ capstone
 ### Built With
 * [React](https://reactjs.org/) - Client
 * [React Router](https://reactrouter.com/) - Client side routing
-* [Bootstrap](https://getbootstrap.com/) - CSS framework
-* [OpenWeather](https://openweathermap.org/) - Weather API
-* [LocationIQ](https://locationiq.com/) - GeoService API
+* [Material UI](https://material-ui.com/) - CSS framework
+* [iexcloud](https://iexcloud.io/) - Stock Market API
 * [ChartJS](https://www.chartjs.org/) - Chart plotting library
 
 
