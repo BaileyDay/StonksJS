@@ -10,7 +10,7 @@
   <h3 align="center">StonksJS</h3>
 
   <p align="center">
-    Front end web application displaying weather data.
+   capstone
     <br />
     <br />
     <a href="https://stonks.baileyday.dev">Check out the Live Version</a>
