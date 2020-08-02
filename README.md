@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
- <img src="/ezgif.com-optimize.gif?raw=true" width="750px">
+ <img src="/stonksgif.gif?raw=true" width="750px">
 </p>
 capstone
 
