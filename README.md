@@ -23,7 +23,7 @@
 <p align="center">
  <img src="/stonksgif.gif?raw=true" width="750px">
 </p>
-capstone
+Capstone project for digital crafts, built on the MERN stack. Allows users to register/login and get real time market data. Users can also build custom portfolios and track historical performance.
 
 ### Built With
 * [React](https://reactjs.org/) - Client
